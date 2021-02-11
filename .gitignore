@@ -1,0 +1,10 @@
+
+*.class
+
+target/maven-status/maven-compiler-plugin/compile/default-compile/
+
+.idea/libraries/
+
+.idea/
+
+target/

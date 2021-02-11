@@ -1,0 +1,41 @@
+SETTINGS:
+  LOBBY-WORLD-NAME: "world"
+  SELECTOR-TITLE: "&b&lSelect a Gamemode"
+  # Valid inventory sizes: 9, 18, 27, 36, 45, 54
+  SELECTOR-SIZE: 27
+  GAMEMODE-NAME-COLOR: "&b"
+  SELECTOR-UPDATE-TIME: 20
+
+LEAVE-NETWORK:
+  EXIT-MESSAGE: "&cThanks for playing!"
+  NAME: "&cDisconnect from the Server"
+  ITEM: REDSTONE
+  SLOT: 26
+  LORE:
+    - "&8&m-------------------------------------"
+    - "&cClick here to disconnect from the server"
+    - "&8&m-------------------------------------"
+
+GAMEMODES:
+  Practice:
+    ITEM: DIAMOND_SWORD
+    SLOT: 11
+    SERVER-NAME: Prac-01
+    LORE:
+      - "&8&m----------------------------------"
+      - "&7This is the Practice server."
+      - "&bPlayers Online: &f%bungee_Prac-01%"
+      - " "
+      - "&bClick to Join!"
+      - "&8&m----------------------------------"
+  Hub:
+    ITEM: BEACON
+    SLOT: 15
+    SERVER-NAME: FrozedHubLite-01
+    LORE:
+      - "&8&m----------------------------------"
+      - "&7This is the FrozedHubLite server."
+      - "&bPlayers Online: &f%bungee_Hub-01%"
+      - " "
+      - "&bClick to Join!"
+      - "&8&m----------------------------------"
