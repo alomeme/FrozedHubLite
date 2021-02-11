@@ -1,5 +1,5 @@
 SETTINGS:
-  LOBBY-WORLD-NAME: "world"
+  LOBBY-WORLD-NAME: "mundo"
   SELECTOR-TITLE: "&b&lSelect a Gamemode"
   # Valid inventory sizes: 9, 18, 27, 36, 45, 54
   SELECTOR-SIZE: 27
